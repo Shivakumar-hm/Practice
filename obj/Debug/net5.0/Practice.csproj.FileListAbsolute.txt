@@ -1,0 +1,15 @@
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.csprojAssemblyReference.cache
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.AssemblyInfoInputs.cache
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.AssemblyInfo.cs
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.csproj.CoreCompileInputs.cache
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/Practice.deps.json
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/Practice.runtimeconfig.json
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/Practice.runtimeconfig.dev.json
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/Practice.dll
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/ref/Practice.dll
+/Users/shivakumarhm/Documents/GitHub/Practice/bin/Debug/net5.0/Practice.pdb
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.dll
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/ref/Practice.dll
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.pdb
+/Users/shivakumarhm/Documents/GitHub/Practice/obj/Debug/net5.0/Practice.genruntimeconfig.cache
