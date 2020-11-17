@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shivakumarhm/Projects/Practice/Practice.csproj": {}
+    "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj": {}
   },
   "projects": {
-    "/Users/shivakumarhm/Projects/Practice/Practice.csproj": {
+    "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shivakumarhm/Projects/Practice/Practice.csproj",
+        "projectUniqueName": "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "/Users/shivakumarhm/Projects/Practice/Practice.csproj",
+        "projectPath": "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj",
         "packagesPath": "/Users/shivakumarhm/.nuget/packages/",
-        "outputPath": "/Users/shivakumarhm/Projects/Practice/obj/",
+        "outputPath": "/Users/shivakumarhm/Documents/GitHub/Practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shivakumarhm/.config/NuGet/NuGet.Config"
