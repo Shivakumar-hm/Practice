@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj",
+      "projectUniqueName": "/Users/shivakumarhm/Projects/Practice/Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "/Users/shivakumarhm/Documents/GitHub/Practice/Practice.csproj",
+      "projectPath": "/Users/shivakumarhm/Projects/Practice/Practice.csproj",
       "packagesPath": "/Users/shivakumarhm/.nuget/packages/",
-      "outputPath": "/Users/shivakumarhm/Documents/GitHub/Practice/obj/",
+      "outputPath": "/Users/shivakumarhm/Projects/Practice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/shivakumarhm/.nuget/NuGet/NuGet.Config"
+        "/Users/shivakumarhm/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
