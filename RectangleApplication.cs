@@ -15,7 +15,7 @@ namespace RectangleApplication {
          return length * width; 
       }
       public void Display() {
-         Console.WriteLine("Length: {0}", length);
+         Console.WriteLine("Length: {0}", length);//length
          Console.WriteLine("Width: {0}", width);//width
          Console.WriteLine("Area: {0}", GetArea());//Area 
       }
