@@ -12,7 +12,7 @@ namespace RectangleApplication {
          width = 3.5;
       }
       public double GetArea() {
-         return length * width; 
+         return length * width; //returns sol
       }
       public void Display() {
          Console.WriteLine("Length: {0}", length);//length added

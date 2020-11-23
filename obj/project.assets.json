@@ -20,7 +20,7 @@
       "outputPath": "/Users/shivakumarhm/Desktop/Practice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/shivakumarhm/.nuget/NuGet/NuGet.Config"
+        "/Users/shivakumarhm/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
