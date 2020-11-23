@@ -16,8 +16,8 @@ namespace RectangleApplication {
       }
       public void Display() {
          Console.WriteLine("Length: {0}", length);//length added
-         Console.WriteLine("Width: {0}", width);//width
-         Console.WriteLine("Area: {0}", GetArea());//Area 
+         Console.WriteLine("Width: {0}", width);//width added
+         Console.WriteLine("Area: {0}", GetArea());//Area added
       }
    }
    class ExecuteRectangle {
