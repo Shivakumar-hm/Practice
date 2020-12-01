@@ -6,7 +6,7 @@ namespace DataTypeApp
     {
         static void Main(string[] args)
         {
-            //size
+            //can find size of any datatype 
             Console.WriteLine("Size of int:{0}", sizeof(int));
             Console.ReadLine();
         }
