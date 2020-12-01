@@ -15,3 +15,8 @@ namespace DataTypeApp
         }
     }
 }
+
+/*Size of int:4
+Size of char:2
+Size of double:8
+Size of float:4*/
