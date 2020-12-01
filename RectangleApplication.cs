@@ -3,7 +3,7 @@ using System;
 namespace RectangleApplication {
    class Rectangle {
       
-      // member variables
+      // member variables added
       double length;
       double width;
       

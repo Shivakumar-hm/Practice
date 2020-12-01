@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shivakumarhm/Desktop/Practice/Practice.csproj": {}
+    "/Users/shivakumarhm/Desktop/Practice /Practice.csproj": {}
   },
   "projects": {
-    "/Users/shivakumarhm/Desktop/Practice/Practice.csproj": {
+    "/Users/shivakumarhm/Desktop/Practice /Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shivakumarhm/Desktop/Practice/Practice.csproj",
+        "projectUniqueName": "/Users/shivakumarhm/Desktop/Practice /Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "/Users/shivakumarhm/Desktop/Practice/Practice.csproj",
+        "projectPath": "/Users/shivakumarhm/Desktop/Practice /Practice.csproj",
         "packagesPath": "/Users/shivakumarhm/.nuget/packages/",
-        "outputPath": "/Users/shivakumarhm/Desktop/Practice/obj/",
+        "outputPath": "/Users/shivakumarhm/Desktop/Practice /obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shivakumarhm/.config/NuGet/NuGet.Config"
